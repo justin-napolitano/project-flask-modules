@@ -19,6 +19,14 @@ seoSecondaryKeywords:
   - neo4j driver
   - python flask
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is focused on a Flask REST API integration with Neo4j, involving Python scripting and
+  deployment considerations. This fits best with the 'automation' family, which covers scripts and
+  projects related to build and deployment workflows, Python code, and serving APIs. Other families
+  such as datascience or devtools are less relevant because the post centers on API architecture and
+  custom driver integration.
 ---
 
 # project-flask-modules: Technical Overview and Implementation Notes
@@ -66,3 +74,4 @@ Graph databases like Neo4j require specialized drivers and connection management
 ## Summary
 
 This project serves as a straightforward example of combining Flask with Neo4j using a custom driver wrapper. It is primarily a starting point or testcase rather than a fully featured application. The code demonstrates basic routing, driver initialization, and JSON response construction. Future work should focus on improving configuration, error handling, and expanding functionality to meet real-world application requirements.
+
