@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/project-flask-modules
 generatedAt: '2025-11-24T21:35:57.000Z'
 source: github-auto
 summary: >-
-  Explore a minimal Flask application that demonstrates REST server
-  functionality with Neo4j database integration and custom driver usage.
+  Explore a minimal Flask application that demonstrates REST server functionality with Neo4j
+  database integration and custom driver usage.
 tags:
   - flask
   - neo4j
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - custom neo4j driver
   - rest server setup
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -106,4 +106,5 @@ project-flask-modules/
 - Add unit and integration tests.
 - Package the custom Neo4j driver or include it as a submodule/dependency.
 - Dockerize the application for easier deployment.
+
 
