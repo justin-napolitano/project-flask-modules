@@ -1,32 +1,40 @@
 ---
 slug: github-project-flask-modules
-title: Minimal Flask REST API with Neo4j Driver Integration
+title: Flask REST API with Neo4j Integration Overview
 repo: justin-napolitano/project-flask-modules
 githubUrl: https://github.com/justin-napolitano/project-flask-modules
 generatedAt: '2025-11-23T09:25:44.684500Z'
 source: github-auto
 summary: >-
-  Example Flask REST server demonstrating integration with Neo4j using a custom driver wrapper and
-  basic query execution.
+  Explore a minimal Flask-based REST server that integrates with Neo4j, focusing
+  on architecture, implementation, and practical considerations.
 tags:
   - flask
   - neo4j
   - rest-api
   - graph-database
+  - rest api
+  - database integration
+  - api design
 seoPrimaryKeyword: flask neo4j integration
 seoSecondaryKeywords:
-  - flask rest api
+  - flask rest server
   - neo4j driver
-  - python flask
+  - graph database api
+  - python web application
+  - modular flask services
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is focused on a Flask REST API integration with Neo4j, involving Python scripting and
-  deployment considerations. This fits best with the 'automation' family, which covers scripts and
-  projects related to build and deployment workflows, Python code, and serving APIs. Other families
-  such as datascience or devtools are less relevant because the post centers on API architecture and
-  custom driver integration.
+  The post is focused on a Flask REST API integration with Neo4j, involving
+  Python scripting and deployment considerations. This fits best with the
+  'automation' family, which covers scripts and projects related to build and
+  deployment workflows, Python code, and serving APIs. Other families such as
+  datascience or devtools are less relevant because the post centers on API
+  architecture and custom driver integration.
+kind: project
+id: github-project-flask-modules
 ---
 
 # project-flask-modules: Technical Overview and Implementation Notes
