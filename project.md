@@ -1,19 +1,26 @@
 ---
 slug: github-project-flask-modules
 id: github-project-flask-modules
-title: project-flask-modules
+title: Flask REST Server with Neo4j Integration Example
 repo: justin-napolitano/project-flask-modules
 githubUrl: https://github.com/justin-napolitano/project-flask-modules
 generatedAt: '2025-11-24T21:35:57.000Z'
 source: github-auto
 summary: >-
-  A minimal Flask application demonstrating a simple REST server integrated with
-  a Neo4j database. This project serves as a basic testcase to illustrate Flask
-  routing and Neo4j connectivity using a custom Neo4j driver wrapper.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a minimal Flask application that demonstrates REST server
+  functionality with Neo4j database integration and custom driver usage.
+tags:
+  - flask
+  - neo4j
+  - python
+seoPrimaryKeyword: flask neo4j integration
+seoSecondaryKeywords:
+  - flask application example
+  - neo4j database connection
+  - python web server
+  - custom neo4j driver
+  - rest server setup
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
